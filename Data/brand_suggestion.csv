@@ -1,0 +1,8 @@
+brand,price,comfort,drive,suv,sport,mpg,look,coupe,convertible,interior
+Suzuki,1,-1,1,1,0,-1,1,0,0,0
+Toyota,1,-1,0,1,0,-1,0,0,1,0
+Volvo,-1,0,1,1,0,0,1,0,0,1
+VW,0,-1,-1,1,0,-1,0,0,0,1
+BMW,-1,0,1,-1,1,0,0,0,1,0
+Infiniti,1,0,-1,0,0,1,-1,1,0,0
+Jaguar,-1,1,1,0,1,0,1,1,0,0
