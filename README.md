@@ -10,3 +10,6 @@
 ![Slide9](https://github.com/akshayravi13/Car-Recommender-Using-Sentiment-Analysis-Bertopic-SVM/assets/85955796/0ed56411-4bff-4b44-af6c-c0e4bd650a5a)
 ![Slide10](https://github.com/akshayravi13/Car-Recommender-Using-Sentiment-Analysis-Bertopic-SVM/assets/85955796/ec86261f-6f86-4c7e-8836-0368c7361034)
 ![Slide11](https://github.com/akshayravi13/Car-Recommender-Using-Sentiment-Analysis-Bertopic-SVM/assets/85955796/61f061c6-3ab2-499e-8822-34a20cbec920)
+
+
+Dataset obtained from [Kaggle]:(https://www.kaggle.com/datasets/ankkur13/edmundsconsumer-car-ratings-and-reviews)
